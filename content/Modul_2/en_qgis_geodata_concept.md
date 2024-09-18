@@ -13,7 +13,7 @@ you will create.
 Geodata, geospatial data, or geographic data is data that has geographical information. This means that the data 
 refers to a location, that is defined by coordinates. It is similar to other forms of data that can be represented 
 in tables (such as Excel spreadsheets or CSV-files) but each item in the data set also holds coordinate information 
-(see figure below).
+(see {numref}`Raster Vector Concept`).
 GIS-software helps us visualise and manipulate geodata in a 2D (or even 3D) space. 
 There are two primary types of geographic data: **vector data and raster data**. Both types represent tangible or 
 intangible things in the real world. However, how they store this data is quite different. Because of this, the 
